@@ -1,4 +1,4 @@
-# Proyeccion1D
-EN EL PRESENTE CODIGO SE ENCUENTRA LA CONVERSION DE DATOS DE 10 DIMENSIONES A 1 DIMENSION, SE TOMA COMO CRITERIO EL Z-ORDER. LUEGO, DE HABER CONVERTIDO ESTOS VALORES, SE ELIGE UNO, EL CUAL SERÁ COMPARADO PARA BUSCAR SUS 5, 10, 15 Y 20 VECINOS MAS CERCANOS EN 10 DIMENSIONES Y EN UNA DIMENSION. FINALMENTE, DEVOLVEMOS EL PORCENTAJE DE COINCIDENCIA ENTRE ESTAS DOS PROYECCIONES.
+# Projection MultiDimension to 1D
+In the present code we find the conversion of data from 10 dimensions to 1 dimension, the z-order is taken as criteria. Then, having converted these values, one is choose which will be compared to search its 5, 10, 15 and 20 nearest neighbors in 10 dimensions and in one dimension. Finally, we return the percentage of matching between these two projections.
 
-DURANTE EL CÓDIGO SE ENCUENTRA LA EXPLICACIÓN DE CADA FUNCIÓN EN CADA PASO.
+During the code the explanation of each function is found in each step.
